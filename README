@@ -14,4 +14,4 @@ This project includes a React.js front end for a task manager application. Pleas
 
 - The back end, including server and database connectivity, is a work in progress.
 - While code for connecting to a SQLite database is provided in `server.js`, it hasn't been fully implemented due to time constraints and a lack of knowledge in SQL database connectivity.
-
+- The code for the backend is located in another branch 'backend'
