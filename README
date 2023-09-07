@@ -1,0 +1,17 @@
+# Project Name
+
+This project includes a React.js front end for a task manager application. Please note the following:
+
+## Front End (React)
+
+- The front end code is located in the `src` folder.
+- To run the front end:
+  1. Navigate to the `src` directory.
+  2. Install dependencies with `npm install`.
+  3. Start the application with `npm start`.
+
+## Back End (Server and Database)
+
+- The back end, including server and database connectivity, is a work in progress.
+- While code for connecting to a SQLite database is provided in `server.js`, it hasn't been fully implemented due to time constraints and a lack of knowledge in SQL database connectivity.
+
